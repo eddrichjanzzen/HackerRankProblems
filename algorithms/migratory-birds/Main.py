@@ -16,9 +16,7 @@ import sys
 
 def migratoryBirds(arr):
     # Write your code here
-
     dictionary = {}
-
     sorted_array = sorted(arr)
 
     for x in sorted_array:
